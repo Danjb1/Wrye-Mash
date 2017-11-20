@@ -1,0 +1,8 @@
+/Mopy/WryeMash.log
+/bin
+/Mopy/build
+*.pyc
+/Mopy/mash.ini
+/Mopy/settings.pkl
+/Mopy/settings.pkl.bak
+/Mopy/utils.dcg
